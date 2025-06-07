@@ -4,6 +4,10 @@ import Image3 from "./c1844fa8ab3fe9cf90e43468b734607d675cc72b.png"
 import Image4 from "./bd29a5e4072178136fe97a316f2a91cc7c031a09.png"
 import Image5 from "./a794d5653dd59a9c6f23ad12493ef4708d6db66a.png"
 import Image6 from "./3e5b171ccd19c8a8564746f656d24e7e9e264094.png"
+import Image7 from "./student1.png"
+import Image8 from "./student2.png"
+import Image9 from "./student3.png"
+
 
 export {
     Image1,
@@ -11,5 +15,5 @@ export {
     Image3,
     Image4,
     Image5,
-    Image6
+    Image6,Image7,Image8,Image9
 }

@@ -4,7 +4,8 @@ const Header = () => {
   return (
     <Navbar
       expand="lg"
-      className="bg-body-tertiary d-flex justify-content-between"
+      className="bg-body-white d-flex justify-content-between"
+        style={{ marginLeft: "48px" }} 
     >
       <Navbar.Brand href="#home" className="fw-bold">
         Hello world!
