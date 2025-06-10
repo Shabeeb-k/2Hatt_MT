@@ -5,7 +5,7 @@ const bgStyles = [
   { background: "#FFE16A", borderRadius: "50% 0 0 50%" },
   { background: "#FDF6F0", borderRadius:"0 148.5px 148.5px 24px" },
   { background: "#FF6B00", borderRadius: "50%" },
-  { background: "#1E5A9B", borderRadius: "24px" },               // Bottom-right
+  { background: "#1E5A9B", borderRadius: "24px" },               
 ];
 function ImageCard({ cardImages }) {
   return (

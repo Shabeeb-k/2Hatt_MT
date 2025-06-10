@@ -14,7 +14,7 @@ const Footer = () => {
         color: "#fff",
       }}
     >
-      {/* First yellow line */}
+
       <div
         style={{
           width: "2px",
@@ -28,7 +28,7 @@ const Footer = () => {
         <h1>6409</h1>
         <p>Succes Story</p>
       </div>
-      {/* Second yellow line */}
+
       <div
         style={{
           width: "2px",
@@ -42,7 +42,7 @@ const Footer = () => {
         <h1>124</h1>
         <p>Expert Instructor</p>
       </div>
-      {/* Third yellow line */}
+
       <div
         style={{
           width: "2px",
